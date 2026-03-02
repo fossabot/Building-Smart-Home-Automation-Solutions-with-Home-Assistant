@@ -1,4 +1,6 @@
 # Building Smart Home Automation Solutions with Home Assistant
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fm1cutza%2FBuilding-Smart-Home-Automation-Solutions-with-Home-Assistant.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fm1cutza%2FBuilding-Smart-Home-Automation-Solutions-with-Home-Assistant?ref=badge_shield)
+
 
 <a href="https://www.packtpub.com/product/building-smart-home-automation-solutions-with-home-assistant/9781801815291"><img src="https://m.media-amazon.com/images/I/41J2xlFCVOL.jpg" alt="Book Name" height="256px" align="right"></a>
 
@@ -56,3 +58,7 @@ With the following software and hardware list you can run all code files present
 **Marco Carvalho**
 He is an experienced home automation hobbyist engineer, electrical engineer, and technician. Pursuing his passion for electronics and embedded systems, he created an embedded home automation task scheduler using X10 Home Automation devices in 2006. Nowadays, he uses wireless electronic devices and the Home Assistant software to build different smart home automation applications.
 As an MSc in Computer Science, Marco has worked with several well-known companies such as IBM, Jabil, Phillips, and Hexagon where he extended his support in development and manufacturing of electronic products. At the time of this publication, he is the Director of Engineering for Apex Microtechnology, where he is involved in the development of high power, high precision analog components.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fm1cutza%2FBuilding-Smart-Home-Automation-Solutions-with-Home-Assistant.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fm1cutza%2FBuilding-Smart-Home-Automation-Solutions-with-Home-Assistant?ref=badge_large)
